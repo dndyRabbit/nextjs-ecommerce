@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-    BASE_URL: "https://rabbit-dev-nextjs-ecommerce.herokuapp.com",
+    BASE_URL: "http://localhost:3000",
     MONGODB_URL:
       "mongodb+srv://dendyhr:n7farrasi@cluster0.gfxg9.mongodb.net/Rabbit-dev-ecommerce-nextjs?retryWrites=true&w=majority",
     ACCESS_TOKEN_SECRET: "-h3?nZ+BXa){@%+}k%+S*]-6,Y_Wv=n>9!TZ(SKFL@BsUP=s",
